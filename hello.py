@@ -1,5 +1,5 @@
 
-first-name = "Borys"
-second-name = "Dekhtyarenko"
-massage =  firs-name + " " + second-name + " " + "wos written his first coomit congratulations"
+firstName = "Borys"
+secondName = "Dekhtyarenko"
+massage =  firstName + " " + secondName + " " + "wos written his first coomit congratulations"
 print(massage)
